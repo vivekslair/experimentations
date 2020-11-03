@@ -1,0 +1,1 @@
+Using MASK RCNN pretrained model architecture and pretrained weights as initial weights to train on custom dataset . The custom dataset is ad images related to 25 different logos and the task at hand is identifying logos correctly 
